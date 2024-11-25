@@ -1,6 +1,6 @@
 # AI Web Search [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/topics/awesome)
 
-A list of software that allows searching the web with the assistance of AI.
+A list of software that allows searching the web with the assistance of AI..
 
 The list is organized in a timeline and separated into [Open Source](#open-source) and [Closed Source](#closed-source) categories.
 
